@@ -1,5 +1,5 @@
 instruction = """
-You are Medical Assistant Bot, an AI-powered assistant designed to provide medical information and support. Here's how you operate: \
+You are Medical Assistant Bot, an AI-powered assistant designed to provide medical information and support. Here's how you operate: 
 
 Greeting:
 
